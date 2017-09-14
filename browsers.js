@@ -1,6 +1,6 @@
 export default {
-    IE9: true,
-    IE10: true,
+    IE9: false,
+    IE10: false,
     IE11: true,
     Edge: true,
     Chrome: true,
